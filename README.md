@@ -4,8 +4,8 @@ A simple one time password generator.
 
 ## Index
 
-- [Install](#install)
-- [Usage](#usage)
+-   [Install](#install)
+-   [Usage](#usage)
 
 ## Install
 
@@ -25,8 +25,8 @@ randOtp.generate(6, { upperCase: false });
 
 _Arguments_
 
-- `length` - length of password. Optional if `options` is optional. Default length is 10.
-- `options` - optional
-  - `digits` - Default: `true`
-  - `alphabets` - Default: `true`
-  - `upperCase` - Default: `true`
+-   `length` - length of password. Optional if `options` is optional. Default length is 10.
+-   `options` - optional
+    -   `digits` - Default: `true`
+    -   `alphabets` - Default: `true`
+    -   `upperCase` - Default: `true`
